@@ -4,4 +4,4 @@ JSON - текстовий формат даних, який слідує за с
 
 JSON існує як рядок, що необхідно при передачі даних через мережу. Він має бути перетворений на власний об'єкт JavaScript, якщо ви хочете отримати доступ до даних. Це не велика проблема. JavaScript надає глобальний об'єкт JSON, який має методи перетворення між ними.
 
-![What is JSON](https://github.com/user-attachments/assets/a1e7be7a-dfac-48b8-abdd-17513d7d81b6)
+![What is JSON](https://github.com/DariaStavytska/JSON/blob/main/What%20is%20JSON.jpeg)
